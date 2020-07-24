@@ -55,5 +55,5 @@
   📚 <b>Analysis and Systems Development</b> - Faculdade de Tecnologia de São Paulo &nbsp; 🎓 <b>Marketing Technician</b> - Escola Técnica Estadual de São Paulo
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🎯 Focused in <b>Python</b>, <b>Flutter</b> and <b>Vue.js</b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🎯 Focused in <b>Web Security</b>, <b>Python</b> and <b>Flutter</b>
 </p>
