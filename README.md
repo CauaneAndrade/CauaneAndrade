@@ -1,4 +1,4 @@
-### "Welcome" \o/ :metal:
+### Welcome \o/ :metal:
 
 Hi, my name is Cauane and I'm a Humanist and Developer, with high hopes on changing the world. <br>
 I love Python and learn about web security.
