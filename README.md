@@ -1,7 +1,7 @@
 ### Welcome \o/ :metal:
 
 Hi there, <br>
-My name is Cauane (@CauanAndrade), a Humanist and Developer with high hopes on changing the world. <br>
+My name is Cauane ([@CauaneAndrade](https://medium.com/@cauane.andrad)), a Humanist and Developer with high hopes on changing the world. <br>
 I love Python and learning about web security.
 
 :telescope: How to reach me:
