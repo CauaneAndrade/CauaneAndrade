@@ -8,4 +8,3 @@ I love Python and learning about web security.
 
 [![Python Badge](https://img.shields.io/badge/www-cauaneandrade.com-purple)](http://www.cauaneandrade.com/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Cauane%20Andrade-blue)](https://www.linkedin.com/in/cauane-andrade)
-[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Cauane%20Andrade-orange)](https://stackoverflow.com/users/12481209/cauane-andrade-santos)
