@@ -2,7 +2,7 @@
 
 Hi there, <br>
 My name is Cauane ([@CauaneAndrade](https://medium.com/@cauane.andrad)), a Humanist and Developer with high hopes on changing the world. <br>
-I love Python and learning about web security.
+I love Python and !'m learning about web security.
 
 :telescope: How to reach me:
 
