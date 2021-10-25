@@ -6,5 +6,5 @@ Living in Brazil working with US clients.
 
 Let's talk 💬
 
-<a href="https://www.linkedin.com/in/CauaneAndrade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="mailto:cauane.emanuela@hotmail.com"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+<a href="https://www.linkedin.com/in/CauaneAndrade"><img src="https://img.shields.io/badge/CauaneAndrade-0077B5?style=&logo=linkedin&logoColor=white" /> </a>
+<a href="mailto:cauane.emanuela@hotmail.com"> <img src="https://img.shields.io/badge/cauane.emanuela@hotmail.com-0078D4?style=&logo=microsoft-outlook&logoColor=white" /> </a>
