@@ -1,10 +1,10 @@
-### Hi there
+### Hey
 
 My name is Cauane, a Humanist and Developer with high hopes on changing the world. <br/>
 Currently working with GIS technologies and software development at Bizpoke, an HD Spatial Offshore company. <br/>
 Living in Brazil working with US clients.
 
-Python, JS, ArcGIS API
+Python, JS, arcpy, ArcGIS stack, MyWorld, Oracle
 
 Let's talk 💬
 
