@@ -1,8 +1,7 @@
 ### Heyyyy
 
-My name is Cauane, a Humanist and Developer with high hopes on changing the world.
-
-Python - Rust - Linux - OpenSource
+My name is Cauane (she/her), a Humanist and Developer with high hopes on changing the world. <br/>
+Python - Rust - Linux - Open Source
 
 Let's talk 💬
 
