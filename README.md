@@ -1,7 +1,8 @@
 ### Heyyyy
 
-A humanist and developer with high hopes on changing the world. <br/>
+A developer with a heart of gold, fueled by coffee and a burning desire to change the world for the better. Or at least, to add some cool new features to my apps. <br/>
 
-Find me here: <br/>
+Don't bother with a map, just follow the trail of awesomeness: <br/>
+
 <a href="https://www.linkedin.com/in/CauaneAndrade"><img src="https://img.shields.io/badge/CauaneAndrade-0077B5?style=&logo=linkedin&logoColor=white" /> </a>
 <a href="mailto:cauane.emanuela@hotmail.com"> <img src="https://img.shields.io/badge/cauane@hotmail.com-0078D4?style=&logo=microsoft-outlook&logoColor=white" /> </a>
