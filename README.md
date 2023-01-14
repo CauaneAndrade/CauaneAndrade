@@ -1,6 +1,6 @@
 ### Heyyyy
 
-A developer with a heart of gold, fueled by coffee and a burning desire to change the world for the better. Or at least, to add some cool new features to my apps. <br/>
+A developer fueled by coffee and a passion for creating change, one line of code at a time. <br/>
 
 Don't bother with a map, just follow the trail of awesomeness: <br/>
 
